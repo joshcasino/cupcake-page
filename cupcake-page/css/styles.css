@@ -1,0 +1,42 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.best {
+  font-family: fantasy;
+  color: pink;
+  font-size: 30px;
+}
+
+.secondbest {
+  font-family: cursive;
+  color: purple;
+  font-size: 25px;
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+h2{
+  text-align: center;
+  color: #ff4d4d;
+}
+
+p{
+  text-align: center;
+}
+
+body{
+  background-color: #cce6ff;
+}
